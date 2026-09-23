@@ -35,7 +35,7 @@
 
 ## 📊 Estudos Atuais
 
-- Machine Learning aplicado à análise de dados  
+- Machine Learning aplicado a Negócios 
 - Modelagem probabilística  
 - Simulação computacional de sistemas estocásticos  
 - Inferência estatística e métodos bayesianos  
