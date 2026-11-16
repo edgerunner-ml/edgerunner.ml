@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou o **Edgerunner** 👋  
-### Tecnólogo em Análise e Desenvolvimento de Sistemas • Pós-graduando em Data Science
+### Tecnólogo em Análise e Desenvolvimento de Sistemas • Especialista em Data Science
 
 </div>
 
@@ -10,7 +10,7 @@
 ## 🎓 Formação Acadêmica
 
 - 💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Descomplica UniAmérica Centro Universitário  
-- 📊 **Pós-graduação em Data Science** — Descomplica UniAmérica Centro Universitário 
+- 📊 **Especialista em Data Science** — Descomplica UniAmérica Centro Universitário 
 
 ---
 
@@ -52,5 +52,5 @@ Aplicar matemática, estatística e computação para desenvolver modelos de an�
 ## 📫 Contato
 
 - Email: laloarauxo@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/
-- Instagram: https://www.instagram.com/edgerunner.ml/
+- LinkedIn: https://www.linkedin.com/in/edgerunner.ml/
+- Instagram: https://www.instagram.com/edgerunnerml/
